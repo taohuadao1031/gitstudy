@@ -1,1 +1,3 @@
-# gitstudy
+# git study record
+
+## git command
